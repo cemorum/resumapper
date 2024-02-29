@@ -1,0 +1,6 @@
+pandas
+pdfquery
+tika
+deep_translator
+transformers
+torch
